@@ -1,0 +1,79 @@
+:root {
+  --bg: #000000;
+  --green: #00ff00;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background: 
+    linear-gradient(rgba(0, 0, 0, 0) 50%, rgba(0, 5, 0, 0.4) 50%),
+    linear-gradient(90deg, rgba(10, 0, 0, 0.7), rgba(0, 15, 0, 0.8), rgba(0, 0, 10, 0.7));
+  background-size: 100% 2px, 3px 100%;
+  color: var(--green);
+  font-family: 'Courier New', monospace;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+html {
+  background-color: #000000;
+}
+
+main {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+}
+
+pre, p {
+  margin: 0;
+  color: var(--green);
+  white-space: pre-wrap;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-shadow: 0 0 2px var(--green), 0 0 4px var(--green);
+}
+
+h1 {
+  font-size: 3rem;
+  color: var(--green);
+  margin-bottom: 1rem;
+}
+
+.subtitle, .tagline, footer {
+  font-size: 1rem;
+  color: var(--green);
+}
+
+footer {
+  text-align: center;
+  margin-top: 4rem;
+  font-size: 0.875rem;
+  border-top: 1px solid var(--green);
+  padding-top: 1rem;
+}
+
+footer a, a {
+  color: var(--green);
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+footer a:hover, a:hover {
+  opacity: 0.75;
+  text-decoration: underline;
+}
