@@ -48,6 +48,15 @@ Vorb gives you everything you need to launch a static site or web app in seconds
 
 ## Getting Started
 
+### 1. Install Bun
+
+If you haven’t installed Bun yet, you can do so with the following command:
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+### 2. launch a Vorb template
+
 To spin up a new Zap project in seconds:
 
 ```bash
