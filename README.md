@@ -60,4 +60,4 @@ curl -fsSL https://bun.sh/install | bash
 To spin up a new Zap project in seconds:
 
 ```bash
-bun create-vorb latest
+bun create-vorb your-app
