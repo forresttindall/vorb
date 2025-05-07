@@ -1,5 +1,5 @@
 {
-  "name": "supernova",
+  "name": "vorb-template",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -15,5 +15,9 @@
   "devDependencies": {
     "vite": "^6.3.5",
     "@vitejs/plugin-react": "^4.4.1"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "bun": ">=1.1.0"
   }
 }

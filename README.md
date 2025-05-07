@@ -1,6 +1,6 @@
 # Vorb — Ultra-Fast React + Vite Static App Template, Built with Bun
 
-![vorb-cli](https://github.com/user-attachments/assets/601f3731-70c2-4738-bdbe-4f7b5df7696a)
+![vorb](https://github.com/user-attachments/assets/6783c1f9-330b-4691-89c3-c22640c3e2ae)
 
 **Vorb** is a lightning-fast, minimalist static site template built with React and Vite, powered by the Bun runtime.
 
