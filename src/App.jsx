@@ -10,7 +10,7 @@ Vorb [v1.0] - Fast static site starter initialized.
 > Loading - Open Source Vite + React + Bun template,
 > Generating static site build...
 
-> Bun create-zorb my-project
+> Run - Bun create-zorb my-project
 
         `}
       </pre>
