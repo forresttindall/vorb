@@ -6,8 +6,8 @@ export default function App() {
     <main>
       <pre>
         {`
-ZAP! [v1.0] - Fast static site starter initialized.
-> Frameworks loaded: Bun + Vite + React
+Vorb [v1.0] - Fast static site starter initialized.
+> Loading - Open Source Vite + React + Bun template,
 > Generating static site build...
 
         `}
@@ -15,7 +15,7 @@ ZAP! [v1.0] - Fast static site starter initialized.
 
       <footer>
         <p>
-          GitHub: <a href="https://github.com/forresttindall/zap" target="_blank">Zap </a>   
+          GitHub: <a href="https://github.com/forresttindall/zap" target="_blank">Vorb </a>   
           — by <a href="https://forresttindall.dev/links">ForrestTindall.dev </a>  
           — Host it on <a href="https://orbiter.host" target="_blank">Orbiter</a>
         </p>

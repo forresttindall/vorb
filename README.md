@@ -1,15 +1,15 @@
-# Zap — Ultra-Minimal React + Vite Static App Template (Built with Bun)
+# Vorb — Ultra-Fast React + Vite Static App Template, Built with Bun
 
-**Zap** is a lightning-fast, minimalist static site template built with React and Vite, powered by the Bun runtime.
+**Vorb** is a lightning-fast, minimalist static site template built with React and Vite, powered by the Bun runtime.
 
 It’s designed for developers who want total control, zero bloat, and immediate performance — without being locked into a rigid, opinionated framework like Next.js.
 
 ---
 
-## Why Zap?
+## Why Vorb?
 
 **Fast by default. Lightweight by design.**  
-Zap gives you everything you need to launch a static site or web app in seconds — and nothing you don’t.
+Vorb gives you everything you need to launch a static site or web app in seconds — and nothing you don’t.
 
 ### Key Advantages:
 
@@ -29,7 +29,7 @@ Zap gives you everything you need to launch a static site or web app in seconds 
   A lean React base without unnecessary wrappers or abstractions.
 
 - **Truly Unopinionated**  
-  Zap doesn’t force you into a specific architecture, folder structure, or dependency chain. Unlike frameworks like Next.js, you're in charge.
+  Vorb doesn’t force you into a specific architecture, folder structure, or dependency chain. Unlike frameworks like Next.js, you're in charge.
 
 ---
 
@@ -49,4 +49,4 @@ Zap gives you everything you need to launch a static site or web app in seconds 
 To spin up a new Zap project in seconds:
 
 ```bash
-bun create zap@latest
+bun create-vorb latest
