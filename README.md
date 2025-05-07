@@ -52,7 +52,7 @@ Vorb gives you everything you need to launch a static site or web app in seconds
 vorb-template/
 ├── public/
 │   └── images/
-│       └── vorg.png
+│       └── vorb.png
 ├── src/
 │   ├── app.css
 │   ├── app.jsx
@@ -62,9 +62,10 @@ vorb-template/
 ├── index.html
 ├── package.json
 ├── vite.config.js
-├── bun.lockb
-└── README.md
+├── README.md
+└── LICENSE
 ```
+
 
 ---
 
