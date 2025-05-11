@@ -22,8 +22,8 @@ Vorb gives you everything you need to launch a static site or web app in seconds
 
 ### Key Advantages:
 
-- **No TypeScript**  
-  Built for speed and simplicity. Pure JSX/JS.
+- **Simple JSX**  
+  Built for speed and simplicity. Pure JSX/JS. (TypeScript support is coming.)
 
 - **Powered by Bun**  
   Uses Bun for blazing-fast installs, scripts, and development tooling.
