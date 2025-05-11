@@ -17,8 +17,8 @@ It’s designed for developers who want total control, zero bloat, and immediate
 
 ## Why Vorb?
 
-**Fast by default. Lightweight by design.**  
-Vorb gives you everything you need to launch a static site or web app in seconds — and nothing you don’t.
+- **JavaScript or Typescript support**  
+  Built for speed and simplicity. Pure JSX/JS for simplicity, or TypeScript
 
 ### Key Advantages:
 
