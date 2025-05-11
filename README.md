@@ -1,6 +1,6 @@
 # Vorb ⚡️
 
-![vorb](https://github.com/user-attachments/assets/9d963ac0-2d00-4cc2-9b2c-8c494d2bac14)
+![vorb2](https://github.com/user-attachments/assets/503c7aea-e4dd-480f-9248-0201f6d2b668)
 
 ## Ultra-Fast React + Vite Static App Template, Built with Bun
 
