@@ -1,6 +1,6 @@
 # Vorb ⚡️
 
-![vorb2](https://github.com/user-attachments/assets/503c7aea-e4dd-480f-9248-0201f6d2b668)
+![vorb](https://github.com/user-attachments/assets/f6622cd3-a9cf-471a-bc0e-14a0ca8b8d6a)
 
 ## Ultra-Fast React + Vite Static App Template, Built with Bun
 
@@ -17,13 +17,13 @@ It’s designed for developers who want total control, zero bloat, and immediate
 
 ## Why Vorb?
 
-- **JavaScript or Typescript support**  
-  Built for speed and simplicity. Pure JSX/JS for simplicity, or TypeScript
+**Fast by default. Lightweight by design.**  
+Vorb gives you everything you need to launch a static site or web app in seconds — and nothing you don’t.
 
 ### Key Advantages:
 
-- **Simple JSX**  
-  Built for speed and simplicity. Pure JSX/JS. (TypeScript support is coming.)
+- **JavaScript or Typescript support**  
+  Built for speed and simplicity. Pure JSX/JS for simplicity, or TypeScript
 
 - **Powered by Bun**  
   Uses Bun for blazing-fast installs, scripts, and development tooling.
