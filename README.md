@@ -85,7 +85,7 @@ If you haven’t installed Bun yet, you can do so with the following command:
 ```bash
 curl -fsSL https://bun.sh/install | bash
 ```
-### 2. launch a Vorb App
+### 2. launch a Vorb app
 
 To spin up a new Vorb project in seconds:
 
