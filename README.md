@@ -9,7 +9,7 @@
 bun create-vorb your-app
 ```
 
-**Vorb** is a lightning-fast, minimalist static site template built with React and Vite, powered by the Bun runtime.
+**Vorb** is a lightning-fast, minimalist static site launcher CLI with React and Vite, powered by the Bun runtime.
 
 It’s designed for developers who want total control, zero bloat, and immediate performance — without being locked into a rigid, opinionated framework like Next.js.
 
